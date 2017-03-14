@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Qualidade de Software
 
-You can use the [editor on GitHub](https://github.com/brunomergh/QualidadeDeSoftware/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Fala galera, o assunto da postagem de hoje é Qualidade de Software. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Com uma simples pesquisa no google podemos ter a definição de Qualidade, que é um conceito subjetivo, é o modo de ser, é a propriedade de qualificar os mais diversos serviços, objetos, indivíduos e etc. Pois bem, para  G. Weinberg, "A qualidade é relativa. O que é qualidade para uma pessoa pode ser falta de qualidade para outra." Então se é algo relativo, como podemos qualificar alguma coisa? Se pensarmos nessa coisa em pedaços o trabalho se torna um pouco mais fácil, por exemplo, uma geladeira... diversas pessoas compram geladeiras de diversar marcas e muitas delas ficam satisfeitas com ambos os produtos, porém se dividirmos a geladeira em áreas ou peças podemos qualifica-lá, vamos pensar na área eletrica, cujo objetivo principal seria fazer ela gelar e ao mesmo tempo gastar menos energia, então se uma geladeira atende esses requisitos podemos dar uma qualificação possitiva. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Entendemos então como podemos tornar a qualidade uma coisa quantitativa... beleza, foco no Software agora!! Se um software é criado e atende todas as espectativas princípais a ele imposto, então podemos dizer que ele funciona corretamente. Porém será que aquele primeiro software que você fez na faculdade com vários loops que muitas das vezes demoravam para serem cuncluidos estária pronto para ser usado em produção? Muitos responderão não, acredito eu, pois bem temos que pensar então que só fazer a função princípal não o torna um software de qualidade, ele precisa atender não só as necessidades básicas do usuário, como o resultado final, mas também não pode demorar dias para entregar este resultado se o usuário o usa para facilitar sua vida. Este software concerteza iria ter uma qualidade baixa, em relação ao um outro que além de atender suas necessidades básicas, ainda expõem o resultado final em segundos. Fora essa qualidade ainda podemos citar várias, como por exemplo, garantir a segurança, evitar que o sistema entre em exceções não previstas pelo programador.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brunomergh/QualidadeDeSoftware/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Então coleguinhas, por isso é importante pensar bem antes de começar a programar, pois suas decissões podem influenciar na qualidade do software.
